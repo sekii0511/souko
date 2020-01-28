@@ -1,2 +1,5 @@
-/TestGit/
+/TestGit/*.txt
+/TestGit/bin/
+/TestGit/a.bin
+/TestGit/target/
 /TestGitPro/
